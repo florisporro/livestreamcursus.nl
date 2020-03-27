@@ -8,9 +8,11 @@ module.exports = {
 			use: "gridsome-plugin-tailwindcss",
 			options: {
 				tailwindConfig: "./tailwind.config.js",
-				purgeConfig: {},
+				purgeConfig: {
+					// whitelistPatterns: [ /bg-$/, /text-$/, /-enter$/, /-leave-to$/ ]
+				},
 				presetEnvConfig: {},
-				shouldPurge: true,
+				shouldPurge: false,
 				shouldImport: true,
 				shouldTimeTravel: true,
 				shouldPurgeUnusedKeyframes: true

@@ -1,5 +1,5 @@
 <template>
-	<header id="header" class="header bg-cursus-dark p-4 md:p-6" role="banner">
+	<header id="header" class="header bg-dark p-4 md:p-6" role="banner">
 		<div
 			class="max-w-screen-md container mx-auto flex flex-col md:flex-row md:justify-between items-center text-white"
 		>
