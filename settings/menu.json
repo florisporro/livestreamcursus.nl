@@ -1,0 +1,12 @@
+{
+	"menu": [
+		{
+			"name": "Home",
+			"link": "/"
+		},
+		{
+			"name": "Live & Register",
+			"link": "/live"
+		}
+	]
+}

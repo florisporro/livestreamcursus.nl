@@ -1,0 +1,11 @@
+/*
+ * Buttons
+ */
+
+.btn {
+	@apply py-2 px-4 rounded font-bold no-underline bg-white;
+
+	&:hover {
+		@apply border-white border-solid border-4 bg-transparent text-white box-content;
+	}
+}

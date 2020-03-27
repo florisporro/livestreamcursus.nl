@@ -1,0 +1,19 @@
+/*! purgecss start ignore */
+@tailwind base;
+/*! purgecss end ignore */
+
+@import "base/all";
+
+@tailwind components;
+
+@import "components/all";
+
+@tailwind utilities;
+
+section {
+	@apply py-8 px-4;
+
+	&:md {
+		@apply py-16 px-4;
+	}
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1022px" height="439px" viewBox="0 0 1022 439" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="LIVE-STREAM-CURSUS.N" font-family="AvenirNext-Bold, Avenir Next" font-size="73.2" font-weight="bold" line-spacing="76" fill="#FFFFFF">
+            <tspan x="461" y="179">LIVE</tspan>
+            <tspan x="461" y="255">STREAM</tspan>
+            <tspan x="461" y="331">CURSUS.NL</tspan>
+        </text>
+        <g id="webinar" transform="translate(47.000000, 65.000000)">
+            <rect id="Rectangle" fill="#7DCE82" x="0" y="0" width="338" height="308" rx="34.02"></rect>
+            <path d="M277,181 L61,181 L61,56 L277,56 L277,181 Z M69.3076923,172.666667 L268.692308,172.666667 L268.692308,64.3333333 L69.3076923,64.3333333 L69.3076923,172.666667 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="107 194 269 194 269 202 107 202"></polygon>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="95 189 103 189 103 206 95 206"></polygon>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="70 194 91 194 91 202 70 202"></polygon>
+            <path d="M140,158 L140,78 L220,118 L140,158 Z M148.317807,91.459234 L148.317807,144.540766 L201.402716,118 L148.317807,91.459234 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M281.55,40 L57.45,40 C50.5745363,40 45,45.5649415 45,52.4285714 L45,209.857143 C45,216.720773 50.5745363,222.285714 57.45,222.285714 L132.15,222.285714 L132.15,247.142857 L90.65,247.142857 L90.65,272 L248.35,272 L248.35,247.142857 L206.85,247.142857 L206.85,222.285714 L281.55,222.285714 C288.425464,222.285714 294,216.720773 294,209.857143 L294,52.4285714 C294,45.5649415 288.425464,40 281.55,40 Z M240.05,255.428571 L240.05,263.714286 L98.95,263.714286 L98.95,255.428571 L240.05,255.428571 Z M198.55,247.142857 L140.45,247.142857 L140.45,222.285714 L198.55,222.285714 L198.55,247.142857 Z M285.7,209.857143 C285.7,212.14502 283.841821,214 281.55,214 L57.45,214 C55.1581786,214 53.3,212.14502 53.3,209.857143 L53.3,52.4285714 C53.3,50.1406946 55.1581786,48.2857143 57.45,48.2857143 L281.55,48.2857143 C283.841821,48.2857143 285.7,50.1406946 285.7,52.4285714 L285.7,209.857143 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

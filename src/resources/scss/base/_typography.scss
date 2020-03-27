@@ -1,0 +1,27 @@
+h2 {
+	font-size: 2rem;
+	font-family: "Nunito", sans-serif;
+	font-weight: 800;
+	@apply mb-2;
+}
+
+h3 {
+	font-size: 1.4rem;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 800;
+	@apply mb-2;
+}
+
+.page-title {
+	@apply text-5xl;
+}
+
+p {
+	@apply mb-2;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 400;
+}
+
+p.lead {
+	font-weight: 800;
+}
