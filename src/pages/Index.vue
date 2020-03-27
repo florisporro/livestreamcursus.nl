@@ -89,8 +89,39 @@
     section.bg-cursus-pink.text-white.text-center
       .container.mx-auto.max-w-screen-md(class="py-4 md:py-8 text-left")
         h2 Wie?
-        p Wij zijn <a href="https://streammyevent.com" target="_blank">Stream My Event</a>. Sinds 2011 faciliteren we professionele livestream producties in binnen en buitenland, maar we ontwikkelen ook zelf technieken en software om ons vakgebied te verbeteren. 24-uurs stream vanaf het dak van A'dam toren? Hebben we gedaan. 5-daagse livestream vanuit een rijdend zonneauto konvooi in de Australische outback? Done that. Met onze combinatie van technische en inhoudelijke ervaring weten we iedere productie weer toonaangevend te zijn.
+        p Wij zijn <a href="https://streammyevent.com" target="_blank">Stream My Event</a>, een hecht team van 7 man uit Amsterdam Noord. Sinds 2011 faciliteren we professionele livestream producties in binnen en buitenland, maar we ontwikkelen ook zelf technieken en software om ons vakgebied te verbeteren. 24-uurs stream vanaf het dak van A'dam toren? Hebben we gedaan. 5-daagse livestream vanuit een rijdend zonneauto konvooi in de Australische outback? Done that. Met onze combinatie van technische en inhoudelijke ervaring weten we iedere productie weer toonaangevend te zijn.
         p De training wordt gegeven door Floris Porro, onze technisch producent.
+    section.bg-white.text-white.text-center
+      .container.mx-auto.max-w-screen-md(class="py-4 md:py-8 text-left")
+        h2.text-cursus-pink Veelgestelde vragen
+        p.text-cursus-dark.lead Waar geven jullie de cursus?
+        p.text-cursus-dark In een ruimte met meer dan 100 personen aanwezig. Nee grapje. Gewoon hier op deze site, met een livestream.
+        .text-center.my-4
+          g-link.btn.bg-cursus-pink.text-white(to="/live" class="hover:border-cursus-pink hover:text-cursus-pink") Hier namelijk, druk dan
+        p.text-cursus-dark.lead.mt-8 Moet ik heel veel dure spullen hebben om hieraan mee te doen?
+        p.text-cursus-dark Nee. We gaan vooral heel veel uitleggen, maar we gaan ook laten zien hoe je aan de slag kunt met gratis (open source) software.
+        p.text-cursus-dark.lead.mt-8 Ben je niet bang dat je hierdoor klanten verliest?
+        p.text-cursus-dark We hopen natuurlijk net als iedereen dat deze crisis snel weer voorbij gaat, en alles weer bij het oude is. Maar tegelijkertijd denken we dat de wereld zich goed verslikt heeft en nu wat minder fris gaat drinken. Snap je?
+        p.text-cursus-dark Nee zonder gein, kennis delen kan volgens ons nooit kwaad. Ook niet in een kleine markt als Nederland, daar moeten we het juist van elkaar hebben. Nu de wereld ontdekt heeft dat livestreaming een goed en broodnodig alternatief is op de fysieke bijeenkomst zouden wij het juist heel zwaar gaan krijgen als we over alles geheimzinnig gaan zitten doen.
+        p.text-cursus-dark.lead.mt-8 Ik weet eigenlijk niet of dit wel iets voor mij is.
+        p.text-cursus-dark We gaan binnen een paar dagen een 30-minuten basistraining hier online zetten. Stay tuned!
+        p.text-cursus-dark.lead.mt-8 Is het livestream, live-stream, live stream of webcast?
+        p.text-cursus-dark Ja.
+        p.text-cursus-dark.lead.mt-8 Ga je het ook hebben over ...?
+        p.text-cursus-dark Waarschijnlijk. Check bovenaan deze pagina even de lijst met onderwerpen. Mis je nog iets? Tweet even naar Floris: <a href="https://twitter.com/florisporro" class="text-cursus-pink hover:text-cursus-pink">@florisporro</a>. Je mag ook tweeten met gifjes van honden die gekke dingen doen.
+        p.text-cursus-dark.lead.mt-8 Dit is geen 1-april grap, toch?
+        p.text-cursus-dark Nee, dat zou wel erg slecht zijn.
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style>
+
+</style>
 </template>
 
 <script>
