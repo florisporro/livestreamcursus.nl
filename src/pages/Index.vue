@@ -89,7 +89,7 @@
     section.bg-pink.text-white.text-center
       .container.mx-auto.max-w-screen-md(class="py-4 md:py-8 text-left")
         h2 Wie?
-        p Wij zijn <a href="https://streammyevent.com" target="_blank">Stream My Event</a>, een hecht team van 7 man uit Amsterdam Noord. Sinds 2011 faciliteren we professionele livestream producties in binnen en buitenland, maar we ontwikkelen ook zelf technieken en software om ons vakgebied te verbeteren. 24-uurs stream vanaf het dak van A'dam toren? Hebben we gedaan. 5-daagse livestream vanuit een rijdend zonneauto konvooi in de Australische outback? Done that. Met onze combinatie van technische en inhoudelijke ervaring weten we iedere productie weer toonaangevend te zijn.
+        p Wij zijn <a href="https://streammyevent.com" target="_blank">Stream My Event</a>, een hecht team van vaste en freelance kanjers. Sinds 2011 faciliteren we professionele livestream producties in binnen en buitenland, maar we ontwikkelen ook zelf technieken en software om ons vakgebied te verbeteren. 24-uurs stream vanaf het dak van A'dam toren? Hebben we gedaan. 5-daagse livestream vanuit een rijdend zonneauto konvooi in de Australische outback? Done that. Met onze combinatie van technische en inhoudelijke ervaring weten we iedere productie weer toonaangevend te zijn.
         p De training wordt gegeven door Floris Porro, onze technisch producent.
     section.bg-white.text-white.text-center
       .container.mx-auto.max-w-screen-md(class="py-4 md:py-8 text-left")
