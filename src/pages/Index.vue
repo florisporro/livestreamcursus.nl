@@ -13,7 +13,12 @@
             p <strong>That's right</strong>, voor de helft van de daghuur van een FS5 bij Budgetcam krijg jij een dag lang livestream training van een wereldklasse streamnerd.
             p Vanaf dinsdag gooien we de prijs omhoog naar € 120 inclusief BTW. Early-birden loont!
         .text-center.my-4
-          g-link.btn.text-red(to="/live/") Nu aanmelden
+          g-link.btn.text-red(to="/#livestream") Nu aanmelden
+    section.bg-purple.text-white.text-center
+      .container.mx-auto.max-w-screen-md(class="pt-4 md:pt-8")
+        h2 Registeren & livestream
+        p Hieronder zie je het venster van onze betaalpartner Cleeng (mogelijk moet je je adblocker uitzetten), daar kun je ook een kaartje kopen. Heb je al betaald? Dan kun je op deze pagina inloggen en woensdag de cursus volgen.
+      iframe#livestream.mx-auto(src="https://stream-my-event.cleeng.com/embedded-event/E685301466_NL?embed=1" frameborder="0" scrolling="no" webkitAllowFullScreen allowFullScreen class="w-full max-h-screen" height="600")
     section.bg-green.text-white
       .container.mx-auto.max-w-screen-md(class="py-4 md:py-8")
         h2 Kun je íéts specifieker zijn over de inhoud?
@@ -59,7 +64,7 @@
       h2 But wait there's more!
       p Om je snel op gang te helpen geven we je ook nog wat mooie tools mee.
       .text-center.my-4
-        g-link.btn.text-purple(to="/live") Nu aanmelden
+        g-link.btn.text-purple(to="/#livestream") Nu aanmelden
       .container.mx-auto.max-w-screen-md(class="py-4 md:py-8 text-left")
         div.flex.my-4(class="md:my-16")
           g-image.flex-none.mr-10(src="~/assets/Holographics_icon.png" class="w-1/4 md:w-1/6 self-center")
@@ -102,7 +107,7 @@
         p.text-dark.lead Waar geven jullie de cursus?
         p.text-dark In een ruimte met meer dan 100 personen aanwezig. Nee grapje. Gewoon hier op deze site, met een livestream.
         .text-center.my-4
-          g-link.btn.bg-pink.text-white(to="/live" class="hover:border-pink hover:text-pink") Hier namelijk, druk dan
+          g-link.btn.bg-pink.text-white(to="/#livestream" class="hover:border-pink hover:text-pink") Hier namelijk, druk dan
         p.text-dark.lead.mt-8 Moet ik heel veel dure spullen hebben om hieraan mee te doen?
         p.text-dark Nee. We gaan vooral heel veel uitleggen, maar we gaan ook laten zien hoe je aan de slag kunt met gratis (open source) software.
         p.text-dark.lead.mt-8 Ben je niet bang dat je hierdoor klanten verliest?
