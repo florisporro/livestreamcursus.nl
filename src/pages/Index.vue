@@ -11,9 +11,9 @@
             h2 Kosttat?
             p Nu voor de ongeloofelijke early-bird prijs van € 50 inclusief BTW.
             p <strong>That's right</strong>, voor de helft van de daghuur van een FS5 bij Budgetcam krijg jij een dag lang livestream training van een wereldklasse streamnerd.
-            p Vanaf maandag gooien we de prijs omhoog naar € 120 inclusief BTW. Early-birden loont!
+            p Vanaf dinsdag gooien we de prijs omhoog naar € 120 inclusief BTW. Early-birden loont!
         .text-center.my-4
-          g-link.btn.text-red(to="/live") Nu aanmelden
+          g-link.btn.text-red(to="/live/") Nu aanmelden
     section.bg-green.text-white
       .container.mx-auto.max-w-screen-md(class="py-4 md:py-8")
         h2 Kun je íéts specifieker zijn over de inhoud?
@@ -68,19 +68,24 @@
             p Deze software hebben we zelf ontwikkeld om makkelijker en sneller basic graphics toe te voegen aan een livestream. De gratis versie biedt al veel handige opties, maar wie meer mogelijkheden zoekt kan met deze korting aan de slag.
         div.flex.my-4(class="md:my-16")
           div.flex-1.flex.flex-col.justify-center(class="w-full")
+            h3 20% korting op eerste huuropdracht bij Stream My Event
+            p Na deze cursus kun je direct aan de slag met onze spullen. Met de juiste opdracht kun je de prijs van de cursus via deze korting direct terugverdienen.
+          g-image.flex-none.ml-10(src="~/assets/sme_icon.jpg" class="w-1/4 md:w-1/6 self-center")
+        div.flex.my-4(class="md:my-16")
+          g-image.flex-none.mr-10(src="~/assets/googlesheets.svg" class="w-1/4 md:w-1/6")
+          div.flex-1.flex.flex-col.justify-center(class="w-full")
             h3 Bitrate calculator
             p Bereken snel hoeveel 4G data je gaat verbruiken voor een livestream met onze calculator. Of, ga je werken met een CDN waarbij je apart voor de data betaald, bereken snel je datakosten.
-          g-image.flex-none.ml-10(src="~/assets/googlesheets.svg" class="w-1/4 md:w-1/6")
         div.flex.my-4(class="md:my-16")
-          g-image.flex-none.mr-10(src="~/assets/cdns.svg" class="w-1/4 md:w-1/6")
           div.flex-1.flex.flex-col.justify-center(class="w-full")
             h3 Overzicht van CDNs
             p Krijg toegang tot ons volledige interne overzicht van wereldwijde CDN providers, met de bijbehorende voor en nadelen.
+          g-image.flex-none.ml-10(src="~/assets/cdns.svg" class="w-1/4 md:w-1/6")
         div.flex.my-4(class="md:my-16")
+          g-image.flex-none.mr-10(src="~/assets/calculator.svg" class="w-1/4 md:w-1/6")
           div.flex-1.flex.flex-col.justify-center(class="w-full")
             h3 Productiekosten estimator
             p We hebben een mooie tool ontwikkeld om snel de prijs, kosten en marge voor een productie in te schatten. Deze interne tool geven we je ook mee, zodat je sneller een bedrijf kunt opbouwen rondom livestreaming.
-          g-image.flex-none.ml-10(src="~/assets/calculator.svg" class="w-1/4 md:w-1/6")
     section.bg-yellow.text-dark.text-center
       .container.mx-auto.max-w-screen-md(class="py-4 md:py-8 text-left")
         h2 Waarom?
@@ -89,7 +94,7 @@
     section.bg-pink.text-white.text-center
       .container.mx-auto.max-w-screen-md(class="py-4 md:py-8 text-left")
         h2 Wie?
-        p Wij zijn <a href="https://streammyevent.com" target="_blank">Stream My Event</a>, een hecht team van vaste en freelance kanjers. Sinds 2011 faciliteren we professionele livestream producties in binnen en buitenland, maar we ontwikkelen ook zelf technieken en software om ons vakgebied te verbeteren. 24-uurs stream vanaf het dak van A'dam toren? Hebben we gedaan. 5-daagse livestream vanuit een rijdend zonneauto konvooi in de Australische outback? Done that. Met onze combinatie van technische en inhoudelijke ervaring weten we iedere productie weer toonaangevend te zijn.
+        p Wij zijn <a href="https://streammyevent.com/" target="_blank">Stream My Event</a>, een hecht team van vaste en freelance kanjers. Sinds 2011 faciliteren we professionele livestream producties in binnen en buitenland, maar we ontwikkelen ook zelf technieken en software om ons vakgebied te verbeteren. 24-uurs stream vanaf het dak van A'dam toren? Hebben we gedaan. 5-daagse livestream vanuit een rijdend zonneauto konvooi in de Australische outback? Done that. Met onze combinatie van technische en inhoudelijke ervaring weten we iedere productie weer toonaangevend te zijn.
         p De training wordt gegeven door Floris Porro, onze technisch producent.
     section.bg-white.text-white.text-center
       .container.mx-auto.max-w-screen-md(class="py-4 md:py-8 text-left")
@@ -114,20 +119,17 @@
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style>
-
 </style>
 </template>
 
 <script>
 export default {
-	metaInfo: {
-		title: "Dé live spoedcursus voor livestreaming. Van matties, voor matties."
-	}
+  metaInfo: {
+    title: "Dé live spoedcursus voor livestreaming. Van matties, voor matties."
+  }
 };
 </script>

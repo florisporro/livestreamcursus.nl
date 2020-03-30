@@ -2,7 +2,7 @@ module.exports = {
 	siteName: "livestreamcursus.nl",
 	siteDescription:
 		"Dé live spoedcursus voor livestreaming. Van matties, voor matties.",
-	siteUrl: "https://livestreamcursus.nl",
+	siteUrl: "https://livestreamcursus.nl/",
 	plugins: [
 		{
 			use: "gridsome-plugin-tailwindcss",
