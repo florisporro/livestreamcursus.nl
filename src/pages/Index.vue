@@ -60,6 +60,11 @@
             div(class="md:bg-white md:text-dark max-w-sm md:rounded overflow-hidden md:shadow-lg p-4")
               h3 Virtuele evenementen hosten
               p.text-left.text-sm Naast de simpele one-way stream gaan we het hebben over interactiviteit en presentatoren op afstand. Met die tools lukt het iedereen om een volledig interactief evenement op te zetten.
+    section.bg-orange.text-white.text-center
+      h2 Toch eerst de basics nog een keer?
+      p Het eerste stukje basiscursus hebben we maandagmiddag live gedaan op Videomattie, kijk het hier terug:
+      .flex.justify-center.my-8
+        iframe(src="https://player.vimeo.com/video/402235299" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen)
     section.bg-purple.text-white.text-center
       h2 But wait there's more!
       p Om je snel op gang te helpen geven we je ook nog wat mooie tools mee.
@@ -114,13 +119,13 @@
         p.text-dark We hopen natuurlijk net als iedereen dat deze crisis snel weer voorbij gaat, en alles weer bij het oude is. Maar tegelijkertijd denken we dat de wereld zich goed verslikt heeft en nu wat minder fris gaat drinken. Snap je?
         p.text-dark Nee zonder gein, kennis delen kan volgens ons nooit kwaad. Ook niet in een kleine markt als Nederland, daar moeten we het juist van elkaar hebben. Nu de wereld ontdekt heeft dat livestreaming een goed en broodnodig alternatief is op de fysieke bijeenkomst zouden wij het juist heel zwaar gaan krijgen als we over alles geheimzinnig gaan zitten doen.
         p.text-dark.lead.mt-8 Ik weet eigenlijk niet of dit wel iets voor mij is.
-        p.text-dark We gaan binnen een paar dagen een 30-minuten basistraining hier online zetten. Stay tuned!
+        p.text-dark <a href="https://vimeo.com/402235299" target="_blank" class="text-pink hover:text-pink">Kijk dan even op Vimeo de 30-minuten basistraining terug</a>, dat geeft een goed idee van wat te verwachten.
         p.text-dark.lead.mt-8 Is het livestream, live-stream, live stream of webcast?
         p.text-dark Ja.
         p.text-dark.lead.mt-8 Ga je het ook hebben over ...?
         p.text-dark Waarschijnlijk. Check bovenaan deze pagina even de lijst met onderwerpen. Mis je nog iets? Tweet even naar Floris: <a href="https://twitter.com/florisporro" class="text-pink hover:text-pink">@florisporro</a>. Je mag ook tweeten met gifjes van honden die gekke dingen doen.
         p.text-dark.lead.mt-8 Dit is geen 1-april grap, toch?
-        p.text-dark Nee, dat zou wel erg slecht zijn.
+        p.text-dark Nee.
 </template>
 
 <script>

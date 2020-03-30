@@ -15,6 +15,7 @@ module.exports = {
 			lazuli: "#2E739E",
 			green: "#7DCE82",
 			gray: "#CFD1D0",
+			orange: "#f1935c",
 
 			black: "#000",
 			white: "#fff"
