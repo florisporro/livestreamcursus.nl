@@ -37,7 +37,6 @@ module.exports = {
 		}
 	],
 	chainWebpack: config => {
-		config.mode("development");
 		config.resolve.alias.set("@modules", "@/resources/js/modules");
 		config.resolve.alias.set("@utilities", "@/resources/js/utilities");
 	}
