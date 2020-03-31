@@ -9,9 +9,8 @@
             p Kun je er live niet bijzijn? Je kunt het allemaal later nog eens rustig terugkijken.
           .w-full.overflow-hidden(class='md:my-2 md:px-2 md:w-1/2')
             h2 Kosttat?
-            p Nu voor de ongeloofelijke early-bird prijs van € 50 inclusief BTW.
-            p <strong>That's right</strong>, voor de helft van de daghuur van een FS5 bij Budgetcam krijg jij een dag lang livestream training van een wereldklasse streamnerd.
-            p Vanaf dinsdag gooien we de prijs omhoog naar € 120 inclusief BTW. Early-birden loont!
+            p Nu voor 120 euro!
+            p <strong>That's right</strong>, voor de daghuur van een FS5 bij Budgetcam krijg jij een dag lang livestream training van een wereldklasse streamnerd.
         .text-center.my-4
           g-link.btn.text-red(to="/#livestream") Nu aanmelden
     section.bg-purple.text-white.text-center
