@@ -18,7 +18,7 @@
       .container.mx-auto.max-w-screen-md(class="pt-4 md:pt-8")
         h2 Registeren & livestream
         p Hieronder zie je het venster van onze betaalpartner Cleeng (mogelijk moet je je adblocker uitzetten), daar kun je ook een kaartje kopen. Heb je al betaald? Dan kun je op deze pagina inloggen en woensdag de cursus volgen.
-      iframe#livestream.mx-auto(src="https://stream-my-event.cleeng.com/embedded-event/E685301466_NL?embed=1" frameborder="0" scrolling="no" webkitAllowFullScreen allowFullScreen class="w-full max-h-screen" height="600")
+      iframe#livestream.mx-auto(src="https://stream-my-event.cleeng.com/embedded-event/E685301466_NL?embed=1" frameborder="0" scrolling="no" webkitAllowFullScreen allowFullScreen class="w-full max-h-screen" height="900")
     section.bg-green.text-white
       .container.mx-auto.max-w-screen-md(class="py-4 md:py-8")
         h2 Kun je íéts specifieker zijn over de inhoud?
