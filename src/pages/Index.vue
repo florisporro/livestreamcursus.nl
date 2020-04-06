@@ -5,26 +5,24 @@
         .flex.flex-wrap.overflow-hidden(class='md:-mx-2')
           .w-full.overflow-hidden(class='md:my-2 md:px-2 md:w-1/2')
             h2 Wat?
-            p Een live cursus van ongeveer 1 dag om te leren livestreamen. Van de absolute basics tot geavanceerde concepten. Speciaal toegespitst op de videomattie die het plaatjes maken echt wel onder de knie heeft, en gewoon snel wat moet weten over livestream techniek om aan de slag te kunnen.
+            p Een live cursus van ongeveer 1 dag om te leren livestreamen. Van de absolute basics tot geavanceerde concepten. Speciaal toegespitst op de AV Professional die het plaatjes maken echt wel onder de knie heeft, en gewoon snel wat moet weten over livestream techniek om aan de slag te kunnen.
             p Kun je er live niet bijzijn? Je kunt het allemaal later nog eens rustig terugkijken.
           .w-full.overflow-hidden(class='md:my-2 md:px-2 md:w-1/2')
             h2 Kosttat?
             p Nu voor 120 euro!
-            p <strong>That's right</strong>, voor de daghuur van een FS5 bij Budgetcam krijg jij een dag lang livestream training van een wereldklasse streamnerd.
+            p <strong>That's right</strong>, voor de daghuur van een FS5 bij Budgetcam krijg jij 7 uur lang livestream training van een wereldklasse streamnerd.
         .text-center.my-4
           g-link.btn.text-red(to="/#livestream") Nu aanmelden
     section.bg-purple.text-white.text-center
       .container.mx-auto.max-w-screen-md(class="pt-4 md:pt-8")
-        h2 Registeren & livestream
-        p Hieronder zie je het venster van onze betaalpartner Cleeng (mogelijk moet je je adblocker uitzetten), daar kun je ook een kaartje kopen. Heb je al betaald? Dan kun je op deze pagina inloggen en woensdag de cursus volgen.
-      iframe#livestream.mx-auto(src="https://stream-my-event.cleeng.com/embedded-event/E685301466_NL?embed=1" frameborder="0" scrolling="no" webkitAllowFullScreen allowFullScreen class="w-full max-h-screen" height="900")
+        h2 Registeren
+        p Hieronder zie je het venster van onze betaalpartner Cleeng (mogelijk moet je je adblocker uitzetten), daar kun je ook een kaartje kopen. Heb je al betaald? Dan kun je op deze pagina inloggen en de cursus volgen.
+      iframe#livestream.mx-auto(src="https://cleeng.com/embed/A410716947_NL?dimWidth=640&dimHeight=490" frameborder="0" scrolling="no" webkitAllowFullScreen allowFullScreen class="w-1/2" height="600")
     section.bg-green.text-white
       .container.mx-auto.max-w-screen-md(class="py-4 md:py-8")
         h2 Kun je íéts specifieker zijn over de inhoud?
-        p We zijn nog volop bezig met het programma, maar we gaan echt zo veel mogelijk doornemen en er is ruim tijd om vragen te beantwoorden.
-        p We beginnen om 11 uur 's ochtends en het programma duurt tenminste 4 uur, maar waarschijnlijk wel iets langer.
-        p Kun je er niet (helemaal) live bijzijn? Je kunt het allemaal later nog eens rustig terugkijken.
-        p <strong>Deze onderwerpen gaan zeker langskomen:</strong>
+        p Jazeker! De training kost je ongeveer 1 dag. Het helpt om een kladblokje bij de hand te houden en zelf wat aantekeningen te maken.
+        p <strong>Deze onderwerpen komen aan bod:</strong>
         .flex.flex-wrap.overflow-hidden(class='md:-mx-2')
           ul.list-inside.list-disc.w-full.overflow-hidden(class='md:my-2 md:px-2 md:w-1/2')
             li Encoders
@@ -34,14 +32,16 @@
             li Signaaltechniek
             li Presentatoren op afstand
             li Live graphics
+            li Rekenen met bitrates
           ul.list-inside.list-disc.w-full.overflow-hidden(class='md:my-2 md:px-2 md:w-1/2')
             li Interactiviteit met virtueel publiek
-            li Betrouwbaarheid van de stream
+            li Stabiliteit van de stream
             li Bonding
             li Re-broadcasting
             li Q&A’s
             li Paywalls
             li Private streams
+            li Begroten van een productie
     section.bg-blue.text-white.text-center
       h2 Wat kun je met deze cursus?
       .container.mx-auto.max-w-screen-md(class="py-4 md:py-8")
@@ -61,7 +61,7 @@
               p.text-left.text-sm Naast de simpele one-way stream gaan we het hebben over interactiviteit en presentatoren op afstand. Met die tools lukt het iedereen om een volledig interactief evenement op te zetten.
     section.bg-orange.text-white.text-center
       h2 Toch eerst de basics nog een keer?
-      p Het eerste stukje basiscursus hebben we maandagmiddag live gedaan op Videomattie, kijk het hier terug:
+      p Het eerste stukje basiscursus hebben we maandagmiddag live gedaan op de <a href="https://www.facebook.com/groups/videomattie/" target="_blank">Facebook groep Videomatties</a>, kijk het hier terug:
       .flex.justify-center.my-8
         iframe(src="https://player.vimeo.com/video/402235299" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen)
     section.bg-purple.text-white.text-center
@@ -77,9 +77,9 @@
             p Deze software hebben we zelf ontwikkeld om makkelijker en sneller basic graphics toe te voegen aan een livestream. De gratis versie biedt al veel handige opties, maar wie meer mogelijkheden zoekt kan met deze korting aan de slag.
         div.flex.my-4(class="md:my-16")
           div.flex-1.flex.flex-col.justify-center(class="w-full")
-            h3 20% korting op eerste huuropdracht bij Stream My Event
-            p Na deze cursus kun je direct aan de slag met onze spullen. Met de juiste opdracht kun je de prijs van de cursus via deze korting direct terugverdienen.
-          g-image.flex-none.ml-10(src="~/assets/sme_icon.jpg" class="w-1/4 md:w-1/6 self-center")
+            h3 15% korting op huuropdrachten via Wedio
+            p Wij verhuren onze spullen ook via Wedio, dus via dit platform kun je ook bij ons spullen huren.
+          g-image.flex-none.ml-10(src="~/assets/wedio.svg" class="w-1/4 md:w-1/6 self-center")
         div.flex.my-4(class="md:my-16")
           g-image.flex-none.mr-10(src="~/assets/googlesheets.svg" class="w-1/4 md:w-1/6")
           div.flex-1.flex.flex-col.justify-center(class="w-full")
@@ -122,9 +122,7 @@
         p.text-dark.lead.mt-8 Is het livestream, live-stream, live stream of webcast?
         p.text-dark Ja.
         p.text-dark.lead.mt-8 Ga je het ook hebben over ...?
-        p.text-dark Waarschijnlijk. Check bovenaan deze pagina even de lijst met onderwerpen. Mis je nog iets? Tweet even naar Floris: <a href="https://twitter.com/florisporro" class="text-pink hover:text-pink">@florisporro</a>. Je mag ook tweeten met gifjes van honden die gekke dingen doen.
-        p.text-dark.lead.mt-8 Dit is geen 1-april grap, toch?
-        p.text-dark Nee.
+        p.text-dark Check bovenaan deze pagina even de lijst met onderwerpen. Mis je nog iets? Tweet even naar Floris: <a href="https://twitter.com/florisporro" class="text-pink hover:text-pink">@florisporro</a>. Je mag ook tweeten met gifjes van honden die gekke dingen doen.
 </template>
 
 <script>
